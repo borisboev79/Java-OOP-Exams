@@ -97,10 +97,4 @@ public class SpaceshipTests {
         Spaceship spaceship2  = new Spaceship("Ariana", 10);
     }
 
-
-
-
-
-
-
 }
