@@ -95,4 +95,5 @@ public class PlayerTests {
     public void testGetGunByName_Successfully(){
         assertEquals(walter, player.getGun("Walter"));
     }
+    
 }
